@@ -7,7 +7,8 @@ body {
 	background-color: white;
 	width: 400px;
 	height: 300px;
-	margin: 20% 40%;
+	margin: auto;
+	margin-top: 300px;
 }
 
 .postcard-header {
