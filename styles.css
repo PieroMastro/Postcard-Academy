@@ -1,14 +1,16 @@
 body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	background: black;
-	font-family: 'Roboto', sans-serif;
+	font-family: "Roboto", sans-serif;
+	height: 100vh;
 }
 
 .postcard {
 	background-color: white;
 	width: 400px;
 	height: 300px;
-	margin: auto;
-	margin-top: 300px;
 }
 
 .postcard-header {
